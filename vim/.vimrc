@@ -115,10 +115,10 @@ nmap <C-g>b :Gblame<CR>
 nmap <C-S-f> :Rg<CR>
 "vmap <C-S-f> :y:@" y:@"<CR>
 
-imap <C-l> <Esc><C-W><Right>
-imap <C-h> <Esc><C-W><Left>
-imap <C-k> <Esc><C-W><Up>
-imap <C-j> <Esc><C-W><Down>
+"imap <C-l> <Esc><C-W><Right>
+"imap <C-h> <Esc><C-W><Left>
+"imap <C-k> <Esc><C-W><Up>
+"imap <C-j> <Esc><C-W><Down>
 
 tmap <C-l> <Esc><C-W><Right>
 tmap <C-h> <Esc><C-W><Left>
